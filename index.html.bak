@@ -6,6 +6,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Seren Technologies</title>
+		<link rel="shortcut icon" href="images/Logotipo.png"
 		<meta name="description" content="Responsive HTML5 Template">
 		<meta name="author" content="webthemez">
 
@@ -213,9 +214,9 @@ hemos investigado y probado a fondo cada uno de ellos puesto que contamos con un
 								<i class="fa fa-magic"></i>
 							</div>
 							<div class="media-body">
-								<h3 class="media-heading">Software especializado.</h3>
+								<h3 class="media-heading">Mayor productividad y competitividad</h3>
 								<blockquote>
-									<p>Los sistemas de gestión desarrollados por Seren Technologies están diseñados de forma personalizada según las necesidades de tu empresa y te ofrecen mejoras y actualizaciones constantes..</p>
+									<p>EL uso de los Sistemas de Gestion en empresas te permite optimizar los recursos disponibles y facilita la supervisión del trabajo.</p>
 									
 								</blockquote>
 							</div>
